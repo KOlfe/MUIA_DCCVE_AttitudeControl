@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=42 Simulator
+Comment=The Mostly Harmless Simulation 
+Exec=/opt/42/MUIA_DCCVE_AttitudeControl/desktop/simular.sh
+Icon=/opt/42/MUIA_DCCVE_AttitudeControl/desktop/satellite.png
+Type=Application
+Terminal=true
