@@ -3,7 +3,7 @@ function [TcmdWhl, m, auxiliar] = ADCS_function(current_time, svb, bvb, wn, qbn,
 
 % Inputs            Description [Units]
 %   current_time    datetime object: simulated time [N/A]
-%   svb             Array[1x3]: Sun-pointing unit Vector, expressed in Body frame [N/A]
+%   svb             Array[3x1]: Sun-pointing unit Vector, expressed in Body frame [N/A]
 %   bvb             Array[3x1]: magnetic field in Body frame [Tesla]
 %   wn              Array[3x1]: Angular Velocity of Body frame wrt iNertial frame expressed in Body frame [rad/sec]
 %   qbn             Array[4x1]: attitude Quaternion of Body frame in iNertial frame (scalar part is the first element) [N/A]
