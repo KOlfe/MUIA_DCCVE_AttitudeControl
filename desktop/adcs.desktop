@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Version=1.0
 Name=AttitudeControl
-Exec=/opt/42/MUIA_DCCVE_AttitudeControl/desktop/startADCS.sh
-Icon=/opt/42/MUIA_DCCVE_AttitudeControl/desktop/axis.png
+Exec=/home/upm/42/MUIA_DCCVE_AttitudeControl/desktop/startADCS.sh
+Icon=/home/upm/42/MUIA_DCCVE_AttitudeControl/desktop/axis.png
 Type=Application
 Terminal=true
